@@ -1,0 +1,11 @@
+D:\Projects\C#\RegexApp\RegexApp\bin\Debug\RegexApp.exe
+D:\Projects\C#\RegexApp\RegexApp\bin\Debug\RegexApp.pdb
+D:\Projects\C#\RegexApp\RegexApp\obj\Debug\RegexApp.csprojAssemblyReference.cache
+D:\Projects\C#\RegexApp\RegexApp\obj\Debug\RegexApp.csproj.CoreCompileInputs.cache
+D:\Projects\C#\RegexApp\RegexApp\obj\Debug\RegexApp.exe
+D:\Projects\C#\RegexApp\RegexApp\obj\Debug\RegexApp.pdb
+C:\Users\кирилл\source\repos\RegexApp\bin\Debug\RegexApp.exe
+C:\Users\кирилл\source\repos\RegexApp\bin\Debug\RegexApp.pdb
+C:\Users\кирилл\source\repos\RegexApp\obj\Debug\RegexApp.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\source\repos\RegexApp\obj\Debug\RegexApp.exe
+C:\Users\кирилл\source\repos\RegexApp\obj\Debug\RegexApp.pdb

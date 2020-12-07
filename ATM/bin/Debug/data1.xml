@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <Name>Кирилл Колесникович</Name>
+    <CardNumber>5135723886843840</CardNumber>
+    <PinCode>1234</PinCode>
+    <Balance>1900</Balance>
+  </Account>
+  <Account>
+    <Name>Максим Демидович</Name>
+    <CardNumber>5428975408090427</CardNumber>
+    <PinCode>1234</PinCode>
+    <Balance>665</Balance>
+  </Account>
+  <Account>
+    <Name>Виталий Хилевский</Name>
+    <CardNumber>5208200111969296</CardNumber>
+    <PinCode>1234</PinCode>
+    <Balance>5000</Balance>
+  </Account>
+</ArrayOfAccount>
